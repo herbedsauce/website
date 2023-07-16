@@ -29,6 +29,13 @@
             {
               "client_id": "565691547794-bd2p3dd5beh8jfrqt502rdr3p53ssm3r.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "565691547794-j3efbqhtfgulifo3o1hle4dem7psnqe7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.herbedsauce.RunnerTests"
+              }
             }
           ]
         }
