@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565691547794",
+    "project_id": "herbedsauce-44d69",
+    "storage_bucket": "herbedsauce-44d69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565691547794:android:ac8d62412748d731c2a64b",
+        "android_client_info": {
+          "package_name": "com.example.herbedsauce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565691547794-bd2p3dd5beh8jfrqt502rdr3p53ssm3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiEwJZ0CStDcFRACSbmjRLVRAXAyFarZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565691547794-bd2p3dd5beh8jfrqt502rdr3p53ssm3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
